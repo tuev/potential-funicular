@@ -23,10 +23,6 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
-<<<<<<< Updated upstream
-=======
 *.sw1?
 *.sw2?
-
-
->>>>>>> Stashed changes
+*.sw3?
